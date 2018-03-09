@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="TyphographyDashes">
+
+    <string name="ga_logLevel">verbose</string>
+
+    <!-- Enable automatic Activity measurement -->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+
+    <string name="ga_trackingId">UA-58645401-4</string>
+
+</resources>
